@@ -1,4 +1,4 @@
-# Replace `Keshav Dunthala`, `YOUR_NAME`, `YOUR_PORTFOLIO`, 'www.linkedin.com/in/keshavdunthala', `keshavdunthala@gmail.com`, and other placeholders with your actual information.
+# Replace `Keshav Dunthala`, `Keshahv Dunthala`, `YOUR_PORTFOLIO`, 'www.linkedin.com/in/keshavdunthala', `keshavdunthala@gmail.com`, and other placeholders with your actual information.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F46E5,50:7C3AED,100:9333EA&text=YOUR_NAME&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -325,25 +325,18 @@ Learning:
   - Advanced System Design
   - Distributed Systems
   - Kubernetes
-  - MLOps
+  - Full Stack Developement
 
 Building:
-  - Enterprise SaaS Platforms
+  - Front-End Websites
   - AI Applications
-  - Developer Tools
-  - Cloud Native Systems
 
 Exploring:
   - Agentic AI
-  - Vector Databases
-  - Multi-Agent Systems
-  - Edge AI
 
 Open To:
   - Software Engineering Roles
   - AI Engineering
-  - Open Source
-  - Research Collaboration
 ```
 
 ---
@@ -352,15 +345,15 @@ Open To:
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:keshavdunthala@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/keshavdunthala">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/keshavdunthala-009">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
