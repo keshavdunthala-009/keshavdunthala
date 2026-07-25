@@ -50,10 +50,6 @@ I believe great software is built through thoughtful architecture, scalable desi
 - AI / Machine Learning Engineer
 - Backend Engineer
 - Full Stack Engineer
-- Platform Engineer
-- Cloud Engineer
-- Open Source Collaboration
-- Research & Product Engineering
 
 ---
 
@@ -63,7 +59,7 @@ I believe great software is built through thoughtful architecture, scalable desi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,rust,kotlin,php"/>
+<img src="https://skillicons.dev/icons?i=python,c,js,"/>
 
 </p>
 
@@ -71,7 +67,7 @@ I believe great software is built through thoughtful architecture, scalable desi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap,redux,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap"/>
 
 </p>
 
@@ -79,7 +75,7 @@ I believe great software is built through thoughtful architecture, scalable desi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi,mongodb,mysql,postgres,redis"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi,mongodb,mysql,postgres"/>
 
 </p>
 
@@ -87,7 +83,7 @@ I believe great software is built through thoughtful architecture, scalable desi
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,githubactions,jenkins,nginx,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,vscode"/>
 
 </p>
 
@@ -97,14 +93,11 @@ I believe great software is built through thoughtful architecture, scalable desi
 
 | Domain | Proficiency | Details |
 |---------|------------|---------|
-| Machine Learning | Advanced | Classical ML, feature engineering, evaluation pipelines |
-| Deep Learning | Advanced | CNNs, RNNs, Transformers, TensorFlow, PyTorch |
-| Natural Language Processing | Advanced | LLM workflows, embeddings, retrieval pipelines |
-| Computer Vision | Intermediate | Detection, segmentation, OCR, OpenCV |
-| MLOps | Intermediate | Model deployment, CI/CD, Docker, monitoring |
-| Data Engineering | Advanced | ETL pipelines, preprocessing, analytics |
-| Generative AI | Advanced | RAG, Prompt Engineering, Vector Databases |
-| Cloud AI | Intermediate | AWS AI Services, scalable inference workloads |
+| Machine Learning | Begineer | Classical ML, feature engineering, evaluation pipelines |
+| Natural Language Processing | Beginner | LLM workflows, embeddings, retrieval pipelines |
+| Data Engineering | Begineer | ETL pipelines, preprocessing, analytics |
+| Generative AI | Beginner | RAG, Prompt Engineering, Vector Databases |
+| Cloud AI | Beginner | AWS AI Services, scalable inference workloads |
 
 ---
 
@@ -119,8 +112,7 @@ An enterprise-ready AI platform enabling intelligent document processing, semant
 
 | Category | Details |
 |-----------|---------|
-| Stack | Python • FastAPI • React • PostgreSQL • Docker • Kubernetes |
-| Scale | Multi-service cloud architecture |
+| Stack | Python • FastAPI • React • PostgreSQL • Docker |
 | Performance | Low-latency inference with optimized APIs |
 | Security | JWT, RBAC, encrypted storage |
 | Impact | Increased enterprise productivity through AI automation |
@@ -215,7 +207,7 @@ Designed and delivered scalable software systems focusing on backend engineering
 
 **Skills**
 
-`Python` `Java` `React` `FastAPI` `AWS` `Docker` `Kubernetes` `PostgreSQL` `GitHub Actions`
+`Python`  `React` `FastAPI` `AWS` `Docker`  `PostgreSQL` `GitHub Actions`
 
 ---
 
@@ -250,11 +242,6 @@ Designed and delivered scalable software systems focusing on backend engineering
 
 ![](https://img.shields.io/badge/NPTEL-Gold-6D28D9?style=for-the-badge)
 
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-![](https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -314,7 +301,7 @@ Designed and delivered scalable software systems focusing on backend engineering
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavdunthala-009&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC"/>
 
 </p>
 
